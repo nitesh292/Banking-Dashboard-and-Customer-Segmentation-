@@ -1,4 +1,3 @@
-# Banking-Dashboard-and-Customer-Segmentation-
 # 💼 Banking Customer Segmentation and Risk Analysis
 
 ## 🎯 Project Objective
@@ -95,5 +94,3 @@ To analyze a banking dataset and segment customers based on their financial beha
 - Improve cross-sell strategies by analyzing gaps in product ownership across segments
 
 ---
-
-> This project showcases how data science and BI tools can work together to deliver actionable banking insights.
